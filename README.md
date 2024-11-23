@@ -21,8 +21,10 @@ Finally, we used matplotlib to visualize the findings of frequent tokens and lem
 - __matplotlib:__ Used to customize data vizualization of our returned NLP results.
 
 ## Commands Used to Setup and Activate Virtual Environment
-- Creating: python -m venv "name-of-your-environment"
-- Activating (for Windows): "name-of-your-environment"\Scripts\Activate
+- Creating:
+  - python -m venv "name-of-your-environment"
+- Activating (for Windows):
+  - "name-of-your-environment"\Scripts\Activate
 
 ## Commands Used to Download Packages
 - python -m pip install jupyter
